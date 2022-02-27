@@ -9,3 +9,11 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
+    - tqdm
+    - sklearn
+    - Pillow
+    - xgboost
+    - sympy
+    - requests
+    - lightgbm
+    - catboost
